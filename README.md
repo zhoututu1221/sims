@@ -24,9 +24,9 @@ Java、Spring、SpringMVC、MyBatis、MySQL、Maven、LayUI、JQuery、Echarts..
 
 ![1](https://gitee.com/zhoututu/sims/raw/master/assets/1.png)
 
-![2](https://gitee.com/zhoututu/sims/raw/master/assets/1.png)
+![2](https://gitee.com/zhoututu/sims/raw/master/assets/2.png)
 
-![3](https://gitee.com/zhoututu/sims/raw/master/assets/1.png)
+![3](https://gitee.com/zhoututu/sims/raw/master/assets/3.png)
 
 
 
