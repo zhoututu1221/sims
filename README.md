@@ -22,11 +22,11 @@ Java、Spring、SpringMVC、MyBatis、MySQL、Maven、LayUI、JQuery、Echarts..
 
 
 
-![3](E:\Eclipse\sims\assets\3.png)
+![1](https://gitee.com/zhoututu/sims/raw/master/assets/1.png)
 
-![1](E:\Eclipse\sims\assets\1.png)
+![2](https://gitee.com/zhoututu/sims/raw/master/assets/1.png)
 
-![2](E:\Eclipse\sims\assets\2.png)
+![3](https://gitee.com/zhoututu/sims/raw/master/assets/1.png)
 
 
 
